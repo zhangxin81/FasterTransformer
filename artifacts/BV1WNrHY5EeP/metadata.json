@@ -1,0 +1,161 @@
+{
+  "bvid": "BV1WNrHY5EeP",
+  "aid": 113767258000257,
+  "videos": 4,
+  "tid": 231,
+  "tid_v2": 2103,
+  "tname": "计算机技术",
+  "tname_v2": "工程机械",
+  "copyright": 1,
+  "pic": "http://i1.hdslb.com/bfs/archive/7fce7254d2274ed81bacc972293d74d0d70816cb.jpg",
+  "title": "【CUDA调优指南】Occupancy Calculater",
+  "pubdate": 1735950995,
+  "ctime": 1735950995,
+  "desc": "",
+  "desc_v2": null,
+  "state": 0,
+  "duration": 2520,
+  "rights": {
+    "bp": 0,
+    "elec": 0,
+    "download": 1,
+    "movie": 0,
+    "pay": 0,
+    "hd5": 0,
+    "no_reprint": 1,
+    "autoplay": 1,
+    "ugc_pay": 0,
+    "is_cooperation": 0,
+    "ugc_pay_preview": 0,
+    "no_background": 0,
+    "clean_mode": 0,
+    "is_stein_gate": 0,
+    "is_360": 0,
+    "no_share": 0,
+    "arc_pay": 0,
+    "free_watch": 0
+  },
+  "owner": {
+    "mid": 218427631,
+    "name": "比飞鸟贵重的多_HKL",
+    "face": "https://i1.hdslb.com/bfs/face/ab425d9c75495ded528ae47caae5ec2ad451b713.jpg"
+  },
+  "stat": {
+    "aid": 113767258000257,
+    "view": 4348,
+    "danmaku": 3,
+    "reply": 8,
+    "favorite": 70,
+    "coin": 28,
+    "share": 7,
+    "now_rank": 0,
+    "his_rank": 0,
+    "like": 55,
+    "dislike": 0,
+    "evaluation": "",
+    "vt": 0
+  },
+  "argue_info": {
+    "argue_msg": "",
+    "argue_type": 0,
+    "argue_link": ""
+  },
+  "dynamic": "",
+  "cid": 27688570848,
+  "dimension": {
+    "width": 1920,
+    "height": 1080,
+    "rotate": 0
+  },
+  "premiere": null,
+  "teenage_mode": 0,
+  "is_chargeable_season": false,
+  "is_story": false,
+  "is_upower_exclusive": false,
+  "is_upower_play": false,
+  "is_upower_preview": false,
+  "enable_vt": 0,
+  "vt_display": "",
+  "is_upower_exclusive_with_qa": false,
+  "no_cache": false,
+  "pages": [
+    {
+      "cid": 27688570848,
+      "page": 1,
+      "from": "vupload",
+      "part": "occupancy_1",
+      "duration": 1014,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n250104saqf9ohev7m0hl1xaaqqgi25l_firsti.jpg",
+      "ctime": 1735950995
+    },
+    {
+      "cid": 27688632698,
+      "page": 2,
+      "from": "vupload",
+      "part": "occupancy_2",
+      "duration": 437,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n250104sa377uvbfn1jpp1h0a3qewmq2_firsti.jpg",
+      "ctime": 1735950995
+    },
+    {
+      "cid": 27688632997,
+      "page": 3,
+      "from": "vupload",
+      "part": "occupancy_3",
+      "duration": 446,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n250104sa3h2rulknxytoa35vb7zvfh9_firsti.jpg",
+      "ctime": 1735950995
+    },
+    {
+      "cid": 27688633153,
+      "page": 4,
+      "from": "vupload",
+      "part": "occupancy_4",
+      "duration": 623,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n250104saqahpu2o0kzpnqhj5tvhrrtv_firsti.jpg",
+      "ctime": 1735950995
+    }
+  ],
+  "subtitle": {
+    "allow_submit": false,
+    "list": []
+  },
+  "is_season_display": false,
+  "user_garb": {
+    "url_image_ani_cut": ""
+  },
+  "honor_reply": {},
+  "like_icon": "",
+  "need_jump_bv": false,
+  "disable_show_up_info": false,
+  "is_story_play": 0,
+  "is_view_self": false
+}
